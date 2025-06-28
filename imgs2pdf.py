@@ -46,7 +46,7 @@ class Imgs2Pdf:
         self.visible = visible
         self.remove = remove
         self.img_exts = ['*.jpg', '*.jpeg', '*.png', '*.webp']
-        self.service_account_path = Path(service_account_path)
+        self.service_account_path = service_account_path
         self.language_hints = language_hints
         self.gas_url = gas_url
 
