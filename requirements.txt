@@ -1,0 +1,9 @@
+bottle
+lxml
+Pillow
+protobuf
+pyunpack
+reportlab
+Requests
+google-cloud-vision
+patool
