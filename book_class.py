@@ -21,7 +21,8 @@ IGNORES = [
     'zzTLK.jpg', 'xBluntmanx.jpg',
     'Thumb.db', 'zzz_UberSoldierDCPDigital.jpg',
     'xsou5b.jpg', 'zz.jpg',
-    'zzzMarika-Empire.jpg'
+    'zzzMarika-Empire.jpg',
+    'ZZZZZ.jpg'
 ]
 
 
